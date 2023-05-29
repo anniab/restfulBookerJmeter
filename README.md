@@ -8,7 +8,7 @@ LoadTest
 SpikeTest
 ![image](https://github.com/anniab/restfulBookerJmeter/assets/73132236/8d94cf49-5c6d-4877-9ffe-d18b8fafc9f9)
 
-Endurance
+EnduranceTest
 ![image](https://github.com/anniab/restfulBookerJmeter/assets/73132236/593e10f6-6331-4b40-957d-ba1903f28665)
 
 Stress test
